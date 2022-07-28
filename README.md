@@ -1,2 +1,3 @@
 # kottans-frontend
-Важкувато але дуже цікаво і хочеться вчитись далі
+
+It is difficult but very interesting and I want to learn more
